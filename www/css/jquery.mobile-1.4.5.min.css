@@ -28,7 +28,7 @@ src: local('Futura Md BT Medium'), url('futura_medium_bt-webfont.woff') format('
   background-repeat:no-repeat;
   background-position:right 10px center; 
   border: none; 
-  background-color: #000080;
+  background-color: #ce0815;
   color: #FFF;  
 	-webkit-box-shadow: rgba(0,0,0,0.8) 0px 0 10px; 
 	-moz-box-shadow: rgba(0,0,0,0.8) 0 0 10px;
@@ -44,7 +44,7 @@ src: local('Futura Md BT Medium'), url('futura_medium_bt-webfont.woff') format('
 .ui-body-f { 
   height:40px;  
   border: none; 
-  background-color: #000080;
+  background-color: #ce0815;
   color: #FFF;  
 	-webkit-box-shadow: rgba(0,0,0,0.8) 0px 0 10px; 
 	-moz-box-shadow: rgba(0,0,0,0.8) 0 0 10px;
@@ -53,10 +53,10 @@ src: local('Futura Md BT Medium'), url('futura_medium_bt-webfont.woff') format('
 
 .ui-page-theme-f {
     font-weight: bold;
-    /* background-color: #000080; */ 
+    /* background-color: #ce0815; */ 
 }
 #login.ui-page-theme-f {
-    background-color: #000080;
+    background-color: #ce0815;
 }
 
 input#username{
@@ -190,7 +190,7 @@ body .ui-body-c, body .ui-overlay-c {
  
 .ui-grid-b .ui-block-a a, .ui-grid-b .ui-block-b a, .ui-grid-b .ui-block-c a, #axe { 
   	/* background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)); */
-  	background-color: #000080;
+  	background-color: #ce0815;
   	border: none; 
   	color: #fff;
   	text-align: center;  
@@ -199,7 +199,7 @@ body .ui-body-c, body .ui-overlay-c {
   }
  .ui-grid-b .ui-block-a a:hover, .ui-grid-b .ui-block-b a:hover, .ui-grid-b .ui-block-c a:hover { 
   	/* background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)); */
-  	background-color: #000080;
+  	background-color: #ce0815;
   	border: none; 
   	color: #fff;
   	text-align: center; 

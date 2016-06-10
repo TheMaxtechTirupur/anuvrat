@@ -221,8 +221,8 @@ $(document).on('pagecontainershow', function (e, ui) {
                 arung222 = $.jStorage.get("wpnid");
                 newarun =  encodeURIComponent($.jStorage.get("wpnid"));
                 userHandler.appid = $.jStorage.get("appid"); 
-                //userHandler.gcmid = $.jStorage.get("gcmid"); 
-                //userHandler.wpnid = $.jStorage.get("wpnid"); 
+                userHandler.gcmid = $.jStorage.get("gcmid"); 
+                userHandler.wpnid = $.jStorage.get("wpnid"); 
                 //Send data to server through the Ajax call
                 //action is functionality we want to call and outputJSON is our data
                     //$.ajax({url: 'http://anuvratvidhyalaya.in/ios/auth.php',

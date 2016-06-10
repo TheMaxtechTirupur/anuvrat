@@ -217,7 +217,7 @@ $(document).on('pagecontainershow', function (e, ui) {
                 $.jStorage.set("username", userHandler.username);
 
                 arung7   = $.jStorage.get("appid");
-                //arung111 = $.jStorage.get("gcmid");
+                arung111 = $.jStorage.get("gcmid");
                 arung222 = $.jStorage.get("wpnid");
                 newarun =  encodeURIComponent($.jStorage.get("wpnid"));
                 userHandler.appid = $.jStorage.get("appid"); 

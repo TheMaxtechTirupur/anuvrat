@@ -299,7 +299,7 @@ $(document).on('pagecontainershow', function (e, ui) {
             $.jStorage.flush();
             localStorage.clear();
             userHandler.status = '';
-            $.mobile.changePage("#login");
+            $.mobile.changePage("#login", {transition : "none" });
             return false; // cancel original event to prevent form submitting
         });
 

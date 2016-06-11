@@ -8,10 +8,12 @@
         ARUN G
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
+    <!-- 
     <feature name="Push">
       <param name="wp-package" value="Push" />
       <param name="onload" value="false" />
-    </feature>
+    </feature>  
+    -->
 
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.7.0" />

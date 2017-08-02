@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.anuvratvidhyalaya.anuv" version="1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Anuvrat Vidhyalaya</name>
+<widget id="com.themaxtech.school" version="1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>School Access</name>
     <description>
-      Welcome to Anuvrat Vidhyalaya
+      Welcome to School Access
     </description>
     <author email="maxtechapps@gmail.com" href="http://themaxtech.com">
         ARUN G
